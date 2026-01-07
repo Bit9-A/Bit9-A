@@ -40,8 +40,8 @@ Colaboro activamente con **[Coderam Dev](https://www.instagram.com/coderam_dev/)
 
 ## 📈 Estadísticas de GitHub
 
-![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=Bit9-A/&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Bit9-A/&layout=compact&theme=radical)
+![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=Bit9-A&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Bit9-A&layout=compact&theme=radical)
 
 ---
 
