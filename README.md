@@ -2,16 +2,21 @@
 
 ### Desarrollador Full Stack | Estudiante de Ingeniería de Sistemas
 
-Desarrollador enfocado en el diseño e implementación de aplicaciones web escalables y arquitecturas limpias. Me especializo en el ecosistema **JavaScript** y en la creación de soluciones a medida que optimizan procesos operativos.
+[cite_start]Desarrollador enfocado en el diseño e implementación de aplicaciones web escalables y arquitecturas limpias[cite: 4, 6]. [cite_start]Me especializo en el ecosistema **JavaScript** y en la creación de soluciones a medida que optimizan procesos operativos[cite: 5, 6].
 
 ---
 
 ## 🚀 Sobre mí
 
-- [cite_start]🎓 Actualmente cursando el 7mo semestre de **Ingeniería de Sistemas** en la UNEFA[cite: 18, 19, 21].
-- [cite_start]💼 Experiencia profesional desarrollando sistemas integrales de gestión de activos en el sector público[cite: 9, 11].
+- [cite_start]🎓 Actualmente cursando el 7mo semestre de **Ingeniería de Sistemas** en la UNEFA[cite: 18, 19].
+- [cite_start]💼 Experiencia profesional desarrollando sistemas integrales de gestión de activos en el sector público[cite: 8, 9, 11].
 - [cite_start]🛠️ Enfocado en la creación de **APIs RESTful** seguras y sistemas de control de acceso (RBAC)[cite: 13, 15].
-- [cite_start]⚡ Busco siempre escribir código mantenible utilizando principios de **Clean Code**[cite: 28].
+- [cite_start]⚡ Busco siempre escribir código mantenible utilizando principios de **Clean Code**.
+
+---
+
+## 👥 Mi Equipo
+Colaboro activamente con **[Coderam Dev](https://www.instagram.com/coderam_dev/)**, donde desarrollamos soluciones tecnológicas innovadoras.
 
 ---
 
@@ -31,11 +36,6 @@ Desarrollador enfocado en el diseño e implementación de aplicaciones web escal
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-### 🔧 Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
 ---
 
 ## 📈 Estadísticas de GitHub
@@ -47,6 +47,8 @@ Desarrollador enfocado en el diseño e implementación de aplicaciones web escal
 
 ## 📫 Contacto
 
-- **LinkedIn:** [Tu LinkedIn aquí]
-- [cite_start]**Correo:** adrian24vergel@gmail.com [cite: 2]
-- [cite_start]**Ubicación:** Táchira, Venezuela [cite: 2, 22]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-vergel-27908a331/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adry_zk/)
+[cite_start]![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) : adrian24vergel@gmail.com [cite: 2]
+
+[cite_start]📍 Táchira, Venezuela [cite: 2]
