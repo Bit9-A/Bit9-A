@@ -2,16 +2,16 @@
 
 ### Desarrollador Full Stack | Estudiante de Ingeniería de Sistemas
 
-[cite_start]Desarrollador enfocado en el diseño e implementación de aplicaciones web escalables y arquitecturas limpias[cite: 4, 6]. [cite_start]Me especializo en el ecosistema **JavaScript** y en la creación de soluciones a medida que optimizan procesos operativos[cite: 5, 6].
+Desarrollador enfocado en el diseño e implementación de aplicaciones web escalables y arquitecturas limpias. Me especializo en el ecosistema **JavaScript** y en la creación de soluciones a medida que optimizan procesos operativos.
 
 ---
 
 ## 🚀 Sobre mí
 
-- [cite_start]🎓 Actualmente cursando el 7mo semestre de **Ingeniería de Sistemas** en la UNEFA[cite: 18, 19].
-- [cite_start]💼 Experiencia profesional desarrollando sistemas integrales de gestión de activos en el sector público[cite: 8, 9, 11].
-- [cite_start]🛠️ Enfocado en la creación de **APIs RESTful** seguras y sistemas de control de acceso (RBAC)[cite: 13, 15].
-- [cite_start]⚡ Busco siempre escribir código mantenible utilizando principios de **Clean Code**.
+- 🎓 Actualmente cursando el 7mo semestre de **Ingeniería de Sistemas** en la UNEFA.
+- 💼 Experiencia profesional desarrollando sistemas integrales de gestión de activos en el sector público.
+- 🛠️ Enfocado en la creación de **APIs RESTful** seguras y sistemas de control de acceso (RBAC).
+- ⚡ Busco siempre escribir código mantenible utilizando principios de **Clean Code**.
 
 ---
 
@@ -49,6 +49,6 @@ Colaboro activamente con **[Coderam Dev](https://www.instagram.com/coderam_dev/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-vergel-27908a331/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adry_zk/)
-[cite_start]![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) : adrian24vergel@gmail.com [cite: 2]
+![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) : adrian24vergel@gmail.com
 
-[cite_start]📍 Táchira, Venezuela [cite: 2]
+📍 Táchira, Venezuela
