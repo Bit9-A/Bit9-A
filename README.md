@@ -8,14 +8,15 @@ Desarrollador enfocado en el diseño e implementación de aplicaciones web escal
 
 ## 🚀 Sobre mí
 
-- 🎓 Actualmente cursando el 7mo semestre de **Ingeniería de Sistemas** en la UNEFA.
-- 💼 Experiencia profesional desarrollando sistemas integrales de gestión de activos en el sector público.
-- 🛠️ Enfocado en la creación de **APIs RESTful** seguras y sistemas de control de acceso (RBAC).
-- ⚡ Busco siempre escribir código mantenible utilizando principios de **Clean Code**.
+- 🎓 Actualmente cursando el 7mo semestre de **Ingeniería de Sistemas** en la UNEFA
+- 💼 Experiencia profesional desarrollando sistemas integrales de gestión de activos en el sector público
+- 🛠️ Enfocado en la creación de **APIs RESTful** seguras y sistemas de control de acceso (RBAC)
+- ⚡ Busco siempre escribir código mantenible utilizando principios de **Clean Code**
 
 ---
 
 ## 👥 Mi Equipo
+
 Colaboro activamente con **[Coderam Dev](https://www.instagram.com/coderam_dev/)**, donde desarrollamos soluciones tecnológicas innovadoras.
 
 ---
@@ -40,15 +41,46 @@ Colaboro activamente con **[Coderam Dev](https://www.instagram.com/coderam_dev/)
 
 ## 📈 Estadísticas de GitHub
 
-![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=Bit9-A&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Bit9-A&layout=compact&theme=radical)
+<div align="center">
+  
+  ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Bit9-A&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&cache_seconds=1800)
+  
+  ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Bit9-A&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&cache_seconds=1800)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bit9-A&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F)
+
+</div>
+
+---
+
+## 💼 Proyectos Destacados
+
+<div align="center">
+
+[![SistBienes](https://github-readme-stats.vercel.app/api/pin/?username=Bit9-A&repo=SistBienes-Frontend&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)](https://github.com/Bit9-A/SistBienes-Frontend)
+
+</div>
 
 ---
 
 ## 📫 Contacto
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-vergel-27908a331/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adry_zk/)
-![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) : adrian24vergel@gmail.com
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrian24vergel@gmail.com)
 
-📍 Táchira, Venezuela
+📍 **Táchira, Venezuela**
+
+</div>
+
+---
+
+<div align="center">
+  
+  ![Visitas al perfil](https://komarev.com/ghpvc/?username=Bit9-A&color=F85D7F&style=for-the-badge)
+  
+  ### ⭐ ¡Gracias por visitar mi perfil! ⭐
+  
+</div>
