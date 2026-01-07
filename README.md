@@ -43,11 +43,10 @@ Colaboro activamente con **[Coderam Dev](https://www.instagram.com/coderam_dev/)
 
 <div align="center">
   
-  ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Bit9-A&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&cache_seconds=1800)
+  ![Estadísticas de GitHub](https://github-readme-streak-stats.herokuapp.com/?user=Bit9-A&theme=dark&hide_border=false)
   
-  ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Bit9-A&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&cache_seconds=1800)
+  ![Lenguajes más usados](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Bit9-A&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bit9-A&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F)
 
 </div>
 
