@@ -8,7 +8,7 @@ Desarrollador enfocado en el diseño e implementación de aplicaciones web escal
 
 ## 🚀 Sobre mí
 
-- 🎓 Actualmente cursando el 7mo semestre de **Ingeniería de Sistemas** en la UNEFA
+- 🎓 Actualmente cursando el 8mo semestre de **Ingeniería de Sistemas** en la UNEFA
 - 💼 Experiencia profesional desarrollando sistemas integrales de gestión de activos en el sector público
 - 🛠️ Enfocado en la creación de **APIs RESTful** seguras y sistemas de control de acceso (RBAC)
 - ⚡ Busco siempre escribir código mantenible utilizando principios de **Clean Code**
