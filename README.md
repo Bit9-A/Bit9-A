@@ -1,6 +1,6 @@
 # ¡Hola! Soy Adrian Vergel 👋
 
-### Desarrollador Full Stack | Estudiante de Ingeniería de Sistemas
+### Desarrollador Full Stack 
 
 Desarrollador enfocado en el diseño e implementación de aplicaciones web escalables y arquitecturas limpias. Me especializo en el ecosistema **JavaScript** y en la creación de soluciones a medida que optimizan procesos operativos.
 
@@ -24,28 +24,28 @@ Colaboro activamente con **[Coderam Dev](https://www.instagram.com/coderam_dev/)
 
 ### 💻 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 ### ⚙️ Backend & DB
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
 ---
 
 ## 📈 Estadísticas de GitHub
 
 <div align="center">
-  
-  ![Estadísticas de GitHub](https://github-readme-streak-stats.herokuapp.com/?user=Bit9-A&theme=dark&hide_border=false)
-  
-  ![Lenguajes más usados](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Bit9-A&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10)
-  
+
+![Estadísticas de GitHub](https://github-readme-streak-stats.herokuapp.com/?user=Bit9-A&theme=dark&hide_border=false)
+
+![Lenguajes más usados](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Bit9-A&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10)
 
 </div>
 
@@ -76,9 +76,9 @@ Colaboro activamente con **[Coderam Dev](https://www.instagram.com/coderam_dev/)
 ---
 
 <div align="center">
-  
-  ![Visitas al perfil](https://komarev.com/ghpvc/?username=Bit9-A&color=F85D7F&style=for-the-badge)
-  
-  ### ⭐ ¡Gracias por visitar mi perfil! ⭐
-  
+
+![Visitas al perfil](https://komarev.com/ghpvc/?username=Bit9-A&color=F85D7F&style=for-the-badge)
+
+### ⭐ ¡Gracias por visitar mi perfil! ⭐
+
 </div>
