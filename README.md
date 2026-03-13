@@ -52,16 +52,19 @@ Soy un apasionado del ecosistema **JavaScript / TypeScript** enfocado en el desa
 
 ## 🚀 Proyectos Destacados
 
-<details open>
-  <summary><b>SistBienes</b> | <i>Gestión Integral de Activos</i></summary>
-  
-  <br>
-  Sistema desarrollado para la gestión de bienes e inventarios en el sector público, priorizando la seguridad y el control de accesos.
-  
-  <div align="center">
-    [![SistBienes](https://github-readme-stats.vercel.app/api/pin/?username=Bit9-A&repo=SistBienes-Frontend&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)](https://github.com/Bit9-A/SistBienes-Frontend)
-  </div>
-</details>
+### 🏢 SistBienes | *Gestión Integral de Activos Públicos*
+
+Sistema completo desarrollado para la gestión de bienes e inventarios en el sector público. Arquitectura enfocada en la centralización de datos, máxima seguridad (RBAC) y control estricto de accesos.
+
+**Stack Tecnológico:**
+> `React` `TypeScript` `Node.js` `PostgreSQL` `TailwindCSS`
+
+<div align="center">
+  <a href="https://github.com/Bit9-A/SistBienes-Frontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bit9-A&repo=SistBienes-Frontend&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="SistBienes-Frontend Badge" />
+  </a>
+</div>
+
 
 ---
 
