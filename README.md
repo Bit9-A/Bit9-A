@@ -18,7 +18,7 @@ Soy un apasionado del ecosistema **JavaScript / TypeScript** enfocado en el desa
 
 - 💼 **Experiencia:** Desarrollo de sistemas integrales de gestión de activos y software B2B en el sector público.
 - ⚙️ **Especializaciones:** Creación de **APIs RESTful** seguras y sistemas avanzados de control de acceso (RBAC).
-- 🤝 **Equipo:** Colaborador activo en **[Coderam Dev](https://www.instagram.com/coderam_dev/)**, donde construimos soluciones tecnológicas innovadoras.
+- 🤝 **Equipo:** Colaborador activo en **[ALLCODE]**, donde construimos soluciones tecnológicas innovadoras.
 - 📍 **Ubicación:** Táchira, Venezuela 🇻🇪.
 
 ---
