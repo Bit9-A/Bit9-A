@@ -3,16 +3,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1111,50:64fcf2,100:0b1111&height=280&section=header&text=ADRIAN%20VERGEL&fontSize=60&fontAlignY=32&desc=Desarrollador%20Full%20Stack%20%E2%80%A2%20Clean%20Architecture%20%E2%80%A2%20TypeScript&descSize=18&descAlignY=50&fontColor=0b1111&animation=fadeIn" />
 </picture>
 
-<br>
-
-<h1 align="center">
-  ADRIAN VERGEL
-</h1>
-<h3 align="center">
-  <sub>Desarrollador Full Stack</sub>
-</h3>
-
-<br>
+<h1 align="center">ADRIAN VERGEL</h1>
+<h3 align="center"><sub>Desarrollador Full Stack</sub></h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adrian-vergel-27908a331/"><img src="https://img.shields.io/badge/LinkedIn-0b1111?style=for-the-badge&logo=linkedin&logoColor=64fcf2&labelColor=1a2222" alt="LinkedIn"></a>
@@ -21,40 +13,19 @@
   <a href="https://adrydev.netlify.app/es/"><img src="https://img.shields.io/badge/Portafolio-64fcf2?style=for-the-badge&logo=astro&logoColor=0b1111&labelColor=1a2222" alt="Portafolio"></a>
 </p>
 
-<br>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&pause=800&color=64FCF2&center=true&vCenter=true&random=false&width=500&lines=%24+SYS%3A%3AINIT;+Desarrollador+Full+Stack;+Clean+Architecture+Advocate;+ALLCODE+Member" alt="Typing SVG">
+  <samp>
+    <strong>Full Stack Developer</strong> apasionado por <strong>JavaScript / TypeScript</strong>.
+    Plataformas robustas con <strong>Clean Architecture</strong>, APIs RESTful y RBAC.
+    Miembro de <strong>ALLCODE</strong> &mdash; Táchira, Venezuela &middot; Sector P&uacute;blico &amp; B2B
+  </samp>
 </p>
-
-<br>
-
-<!-- SOBRE MÍ -->
-<table align="center">
-  <tr>
-    <td align="center">
-      <samp>
-        <strong>Desarrollador Full Stack</strong> apasionado por el ecosistema <strong>JavaScript / TypeScript</strong>.
-        Construyo plataformas robustas con <strong>Clean Architecture</strong>, APIs RESTful seguras
-        y sistemas de control de acceso avanzados (RBAC).
-        <br><br>
-        Miembro activo de <strong>ALLCODE</strong> — transformando ideas en soluciones tecnológicas escalables.
-        <br><br>
-        📍 Táchira, Venezuela &nbsp;&nbsp;•&nbsp;&nbsp; 💼 Sector Público & B2B
-      </samp>
-    </td>
-  </tr>
-</table>
-
-<br>
 
 ---
 
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=800&color=64FCF2&center=true&vCenter=true&repeat=false&width=200&lines=%24+STACK" alt="STACK">
 </h2>
-
-<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-0b1111?style=for-the-badge&logo=react&logoColor=64fcf2&labelColor=1a2222" alt="React">
@@ -82,18 +53,11 @@
   <img src="https://img.shields.io/badge/Linux-0b1111?style=for-the-badge&logo=linux&logoColor=64fcf2&labelColor=1a2222" alt="Linux">
 </p>
 
-<br>
-
 ---
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=800&color=64FCF2&center=true&vCenter=true&repeat=false&width=280&lines=%24+PROYECTOS" alt="PROYECTOS">
-</h2>
-
-<br>
+<h2 align="center">PROYECTOS</h2>
 
 <!-- PROYECTOS: GRID 2x2 COMPACTO -->
-
 <table align="center">
   <tr>
     <!-- SISTBIENES -->
@@ -154,7 +118,7 @@
         </tr>
         <tr>
           <td colspan="2">
-            <a href="https://github.com/Bit9-A/BeFit"><img src="https://img.shields.io/badge/Código-0b1111?style=flat-square&logo=github&logoColor=64fcf2&labelColor=1a2222" alt="Código"></a>
+            <a href="https://github.com/Bit9-A/BeFit"><img src="https://img.shields.io/badge/C%C3%B3digo-0b1111?style=flat-square&logo=github&logoColor=64fcf2&labelColor=1a2222" alt="Código"></a>
           </td>
         </tr>
       </table>
@@ -221,7 +185,7 @@
         </tr>
         <tr>
           <td colspan="2">
-            <a href="https://github.com/Bit9-A/DocFlow"><img src="https://img.shields.io/badge/Código-0b1111?style=flat-square&logo=github&logoColor=64fcf2&labelColor=1a2222" alt="Código"></a>
+            <a href="https://github.com/Bit9-A/DocFlow"><img src="https://img.shields.io/badge/C%C3%B3digo-0b1111?style=flat-square&logo=github&logoColor=64fcf2&labelColor=1a2222" alt="Código"></a>
             <a href="https://doc-flow-web-builderz.vercel.app"><img src="https://img.shields.io/badge/Demo-64fcf2?style=flat-square&logo=vercel&logoColor=0b1111&labelColor=1a2222" alt="Demo"></a>
           </td>
         </tr>
@@ -230,15 +194,9 @@
   </tr>
 </table>
 
-<br>
-
 ---
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=800&color=64FCF2&center=true&vCenter=true&repeat=false&width=200&lines=%24+ESTAD%C3%8DSTICAS" alt="ESTADÍSTICAS">
-</h2>
-
-<br>
+<h2 align="center">ESTAD&Iacute;STICAS</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bit9-A&show_icons=true&theme=transparent&bg_color=0b1111&title_color=64fcf2&text_color=c5c6c7&icon_color=64fcf2&border_color=273a38&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -249,13 +207,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bit9-A&layout=compact&bg_color=0b1111&title_color=64fcf2&text_color=c5c6c7&icon_color=64fcf2&border_color=273a38&hide_border=true&langs_count=8&card_width=320" alt="Top Languages" />
 </p>
 
-<br>
-
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bit9-A&color=64fcf2&style=for-the-badge&label=VISITAS" alt="Profile visits" />
-  <br><br>
+  <br>
   <code>if ( code.isClean() ) deploy()</code>
 </p>
 
