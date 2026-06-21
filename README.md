@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0b1111,50:64fcf2,100:0b1111&height=280&section=header&text=ADRIAN%20VERGEL&fontSize=60&fontAlignY=32&desc=Desarrollador%20Full%20Stack%20%E2%80%A2%20Clean%20Architecture%20%E2%80%A2%20TypeScript&descSize=18&descAlignY=50&fontColor=64fcf2&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1111,50:64fcf2,100:0b1111&height=280&section=header&text=ADRIAN%20VERGEL&fontSize=60&fontAlignY=32&desc=Desarrollador%20Full%20Stack%20%E2%80%A2%20Clean%20Architecture%20%E2%80%A2%20TypeScript&descSize=18&descAlignY=50&fontColor=0b1111&animation=fadeIn" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:0b1111,50:64fcf2,100:0b1111&height=200&section=header&text=ADRIAN%20VERGEL&fontSize=50&fontAlignY=36&desc=Desarrollador%20Full%20Stack%20%E2%80%A2%20Clean%20Architecture%20%E2%80%A2%20TypeScript&descSize=16&descAlignY=52&fontColor=64fcf2&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1111,50:64fcf2,100:0b1111&height=200&section=header&text=ADRIAN%20VERGEL&fontSize=50&fontAlignY=36&desc=Desarrollador%20Full%20Stack%20%E2%80%A2%20Clean%20Architecture%20%E2%80%A2%20TypeScript&descSize=16&descAlignY=52&fontColor=0b1111&animation=fadeIn" />
 </picture>
 
 <h1 align="center">ADRIAN VERGEL</h1>
@@ -14,6 +14,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&pause=1000&color=64FCF2&center=true&vCenter=true&random=false&width=500&lines=SYS::INIT;Desarrollador+Full+Stack;Clean+Architecture+Advocate;ALLCODE+Member" alt="Typing SVG">
+</p>
+
+<p align="center">
   <samp>
     <strong>Full Stack Developer</strong> apasionado por <strong>JavaScript / TypeScript</strong>.
     Plataformas robustas con <strong>Clean Architecture</strong>, APIs RESTful y RBAC.
@@ -24,7 +28,7 @@
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=800&color=64FCF2&center=true&vCenter=true&repeat=false&width=200&lines=%24+STACK" alt="STACK">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=800&color=64FCF2&center=true&vCenter=true&repeat=false&width=200&lines=STACK" alt="STACK">
 </h2>
 
 <p align="center">
@@ -216,6 +220,6 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0b1111,50:64fcf2,100:0b1111&height=120&section=footer&fontColor=64fcf2" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1111,50:64fcf2,100:0b1111&height=120&section=footer&fontColor=0b1111" width="100%" alt="Footer" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:0b1111,50:64fcf2,100:0b1111&height=100&section=footer&fontColor=64fcf2" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1111,50:64fcf2,100:0b1111&height=100&section=footer&fontColor=0b1111" width="100%" alt="Footer" />
 </picture>
