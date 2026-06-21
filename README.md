@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=800&color=64FCF2&center=true&vCenter=true&random=false&width=500&lines=%24+SYS%3A%3AINIT;%24+Full+Stack+Developer;%24+Clean+Architecture+Advocate;%24+ALLCODE+Member" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&pause=800&color=64FCF2&center=true&vCenter=true&random=false&width=500&lines=%24+SYS%3A%3AINIT;+Full+Stack+Developer;+Clean+Architecture+Advocate;+ALLCODE+Member" alt="Typing SVG">
 </p>
 
 <br>
@@ -25,11 +25,11 @@
   <tr>
     <td align="center">
       <samp>
-        <strong>Desarrollador Full Stack</strong> apasionado por el ecosistema JavaScript / TypeScript.
+        <strong>Desarrollador Full Stack</strong> apasionado por el ecosistema <strong>JavaScript / TypeScript</strong>.
         Construyo plataformas robustas con <strong>Clean Architecture</strong>, APIs RESTful seguras
         y sistemas de control de acceso avanzados (RBAC).
         <br><br>
-        Miembro activo de <strong>ALLCODE</strong> — transformando ideas en soluciones escalables.
+        Miembro activo de <strong>ALLCODE</strong> — transformando ideas en soluciones tecnológicas escalables.
         <br><br>
         📍 <em>Táchira, Venezuela</em> &nbsp;&nbsp;•&nbsp;&nbsp; 💼 <em>Sector Público & B2B</em>
       </samp>
@@ -41,9 +41,8 @@
 
 ---
 
-<!-- STACK -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=64FCF2&center=true&vCenter=true&repeat=false&width=200&lines=%24+STACK" alt="STACK">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=800&color=64FCF2&center=true&vCenter=true&repeat=false&width=180&lines=%24+STACK" alt="STACK">
 </h2>
 
 <br>
@@ -76,47 +75,152 @@
 
 ---
 
-<!-- PROYECTOS -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=64FCF2&center=true&vCenter=true&repeat=false&width=240&lines=%24+PROYECTOS" alt="PROYECTOS">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=800&color=64FCF2&center=true&vCenter=true&repeat=false&width=280&lines=%24+PROYECTOS" alt="PROYECTOS">
 </h2>
 
 <br>
 
-<p align="center">
-  <a href="https://github.com/Bit9-A/SistBienes-Frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bit9-A&repo=SistBienes-Frontend&bg_color=0b1111&title_color=64fcf2&text_color=c5c6c7&icon_color=64fcf2&border_color=273a38&hide_border=true&description_lines=1" alt="SistBienes Frontend" />
-  </a>
-  <a href="https://github.com/Bit9-A/SistBienes-Backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bit9-A&repo=SistBienes-Backend&bg_color=0b1111&title_color=64fcf2&text_color=c5c6c7&icon_color=64fcf2&border_color=273a38&hide_border=true&description_lines=1" alt="SistBienes Backend" />
-  </a>
-</p>
+<!-- SISTBIENES -->
+<table align="center">
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td width="30%" align="center" valign="top">
+            <img src="https://img.shields.io/badge/📊-0b1111?style=flat-square&labelColor=1a2222" alt="icon" height="60">
+            <br>
+            <strong><span style="color:#64fcf2">SISTBIENES</span></strong>
+            <br>
+            <em><span style="color:#94a3b8">Sistema de Gestión de Activos</span></em>
+          </td>
+          <td width="70%" valign="top">
+            <samp>
+              Plataforma integral de gestión de activos municipales con tracking en tiempo real, programación de mantenimiento y reportes dinámicos.
+              <br><br>
+              <img src="https://img.shields.io/badge/React-0b1111?style=flat-square&logo=react&logoColor=64fcf2&labelColor=1a2222" alt="React">
+              <img src="https://img.shields.io/badge/TypeScript-0b1111?style=flat-square&logo=typescript&logoColor=64fcf2&labelColor=1a2222" alt="TypeScript">
+              <img src="https://img.shields.io/badge/Node.js-0b1111?style=flat-square&logo=nodedotjs&logoColor=64fcf2&labelColor=1a2222" alt="Node.js">
+              <img src="https://img.shields.io/badge/PostgreSQL-0b1111?style=flat-square&logo=postgresql&logoColor=64fcf2&labelColor=1a2222" alt="PostgreSQL">
+              <br><br>
+              <a href="https://github.com/Bit9-A/SistBienes-Frontend"><img src="https://img.shields.io/badge/Frontend-0b1111?style=flat-square&logo=github&logoColor=64fcf2&labelColor=1a2222" alt="Frontend"></a>
+              <a href="https://github.com/Bit9-A/SistBienes-Backend"><img src="https://img.shields.io/badge/Backend-0b1111?style=flat-square&logo=github&logoColor=64fcf2&labelColor=1a2222" alt="Backend"></a>
+            </samp>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="https://github.com/Bit9-A/SGS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bit9-A&repo=SGS&bg_color=0b1111&title_color=64fcf2&text_color=c5c6c7&icon_color=64fcf2&border_color=273a38&hide_border=true" alt="SGS" />
-  </a>
-  <a href="https://github.com/Bit9-A/DocFlow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bit9-A&repo=DocFlow&bg_color=0b1111&title_color=64fcf2&text_color=c5c6c7&icon_color=64fcf2&border_color=273a38&hide_border=true" alt="DocFlow" />
-  </a>
-</p>
+<br>
 
-<p align="center">
-  <a href="https://github.com/Bit9-A/BeFit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bit9-A&repo=BeFit&bg_color=0b1111&title_color=64fcf2&text_color=c5c6c7&icon_color=64fcf2&border_color=273a38&hide_border=true" alt="BeFit" />
-  </a>
-  <a href="https://github.com/Bit9-A/Portafolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bit9-A&repo=Portafolio&bg_color=0b1111&title_color=64fcf2&text_color=c5c6c7&icon_color=64fcf2&border_color=273a38&hide_border=true" alt="Portafolio" />
-  </a>
-</p>
+<!-- BEFIT -->
+<table align="center">
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td width="30%" align="center" valign="top">
+            <img src="https://img.shields.io/badge/🏋️-0b1111?style=flat-square&labelColor=1a2222" alt="icon" height="60">
+            <br>
+            <strong><span style="color:#64fcf2">BEFIT</span></strong>
+            <br>
+            <em><span style="color:#94a3b8">AI Wellness Companion</span></em>
+          </td>
+          <td width="70%" valign="top">
+            <samp>
+              App multiplataforma con IA: entrenamientos personalizados, análisis de nevera para planificación de comidas, chat de bienestar mental y gamificación con niveles XP y misiones diarias.
+              <br><br>
+              <img src="https://img.shields.io/badge/React_Native-0b1111?style=flat-square&logo=react&logoColor=64fcf2&labelColor=1a2222" alt="React Native">
+              <img src="https://img.shields.io/badge/Expo-0b1111?style=flat-square&logo=expo&logoColor=64fcf2&labelColor=1a2222" alt="Expo">
+              <img src="https://img.shields.io/badge/Gemini_AI-0b1111?style=flat-square&logo=google&logoColor=64fcf2&labelColor=1a2222" alt="Gemini AI">
+              <img src="https://img.shields.io/badge/Supabase-0b1111?style=flat-square&logo=supabase&logoColor=64fcf2&labelColor=1a2222" alt="Supabase">
+              <br><br>
+              <a href="https://github.com/Bit9-A/BeFit"><img src="https://img.shields.io/badge/Código-0b1111?style=flat-square&logo=github&logoColor=64fcf2&labelColor=1a2222" alt="Código"></a>
+            </samp>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- SGS (PRIVADO - sin link) -->
+<table align="center">
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td width="30%" align="center" valign="top">
+            <img src="https://img.shields.io/badge/🏛️-0b1111?style=flat-square&labelColor=1a2222" alt="icon" height="60">
+            <br>
+            <strong><span style="color:#64fcf2">SGS</span></strong>
+            <br>
+            <em><span style="color:#94a3b8">Sistema de Gestión Social</span></em>
+          </td>
+          <td width="70%" valign="top">
+            <samp>
+              Plataforma integral de gestión de trámites sociales con expedientes digitales, fichas socioeconómicas, inspecciones de campo, control de créditos y generación de documentos oficiales con firma digital y códigos QR. Autenticación RBAC y dashboards en tiempo real.
+              <br><br>
+              <img src="https://img.shields.io/badge/React-0b1111?style=flat-square&logo=react&logoColor=64fcf2&labelColor=1a2222" alt="React">
+              <img src="https://img.shields.io/badge/TypeScript-0b1111?style=flat-square&logo=typescript&logoColor=64fcf2&labelColor=1a2222" alt="TypeScript">
+              <img src="https://img.shields.io/badge/Prisma-0b1111?style=flat-square&logo=prisma&logoColor=64fcf2&labelColor=1a2222" alt="Prisma">
+              <img src="https://img.shields.io/badge/PostgreSQL-0b1111?style=flat-square&logo=postgresql&logoColor=64fcf2&labelColor=1a2222" alt="PostgreSQL">
+              <img src="https://img.shields.io/badge/Tailwind-0b1111?style=flat-square&logo=tailwind-css&logoColor=64fcf2&labelColor=1a2222" alt="Tailwind">
+              <br><br>
+              <img src="https://img.shields.io/badge/Privado-1a2222?style=flat-square&logo=lock&logoColor=94a3b8&labelColor=0b1111" alt="Privado">
+            </samp>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- DOCFLOW -->
+<table align="center">
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td width="30%" align="center" valign="top">
+            <img src="https://img.shields.io/badge/📄-0b1111?style=flat-square&labelColor=1a2222" alt="icon" height="60">
+            <br>
+            <strong><span style="color:#64fcf2">DOCFLOW</span></strong>
+            <br>
+            <em><span style="color:#94a3b8">Visual Document Design Engine · Open Source</span></em>
+          </td>
+          <td width="70%" valign="top">
+            <samp>
+              Motor de diseño visual de documentos basado en bloques con editor drag-and-drop y generación programática de PDFs. AST JSON portable para diseñar una vez y renderizar en múltiples formatos. Tablas dinámicas, interpolación de variables y diseño accesible WCAG 2.1 AA.
+              <br><br>
+              <img src="https://img.shields.io/badge/Next.js-0b1111?style=flat-square&logo=next.js&logoColor=64fcf2&labelColor=1a2222" alt="Next.js">
+              <img src="https://img.shields.io/badge/TypeScript-0b1111?style=flat-square&logo=typescript&logoColor=64fcf2&labelColor=1a2222" alt="TypeScript">
+              <img src="https://img.shields.io/badge/Zustand-0b1111?style=flat-square&logo=react&logoColor=64fcf2&labelColor=1a2222" alt="Zustand">
+              <img src="https://img.shields.io/badge/PDFKit-0b1111?style=flat-square&logo=adobe&logoColor=64fcf2&labelColor=1a2222" alt="PDFKit">
+              <img src="https://img.shields.io/badge/Tailwind-0b1111?style=flat-square&logo=tailwind-css&logoColor=64fcf2&labelColor=1a2222" alt="Tailwind">
+              <br><br>
+              <a href="https://github.com/Bit9-A/DocFlow"><img src="https://img.shields.io/badge/Código-0b1111?style=flat-square&logo=github&logoColor=64fcf2&labelColor=1a2222" alt="Código"></a>
+              <a href="https://doc-flow-web-builderz.vercel.app"><img src="https://img.shields.io/badge/Demo-64fcf2?style=flat-square&logo=vercel&logoColor=0b1111&labelColor=1a2222" alt="Demo"></a>
+            </samp>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 <br>
 
 ---
 
-<!-- STATS -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=64FCF2&center=true&vCenter=true&repeat=false&width=180&lines=%24+STATS" alt="STATS">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=800&color=64FCF2&center=true&vCenter=true&repeat=false&width=180&lines=%24+STATS" alt="STATS">
 </h2>
 
 <br>
@@ -134,7 +238,6 @@
 
 ---
 
-<!-- FOOTER -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bit9-A&color=64fcf2&style=for-the-badge&label=VISITAS" alt="Profile visits" />
   <br><br>
