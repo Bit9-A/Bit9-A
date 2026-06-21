@@ -5,6 +5,15 @@
 
 <br>
 
+<h1 align="center">
+  ADRIAN VERGEL
+</h1>
+<h3 align="center">
+  <sub>Desarrollador Full Stack</sub>
+</h3>
+
+<br>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/adrian-vergel-27908a331/"><img src="https://img.shields.io/badge/LinkedIn-0b1111?style=for-the-badge&logo=linkedin&logoColor=64fcf2&labelColor=1a2222" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/adry_zk/"><img src="https://img.shields.io/badge/Instagram-0b1111?style=for-the-badge&logo=instagram&logoColor=64fcf2&labelColor=1a2222" alt="Instagram"></a>
