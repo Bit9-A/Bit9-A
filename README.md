@@ -1,8 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:0b1111,50:64fcf2,100:0b1111&height=200&section=header&text=ADRIAN%20VERGEL&fontSize=50&fontAlignY=36&desc=Desarrollador%20Full%20Stack%20%E2%80%A2%20Clean%20Architecture%20%E2%80%A2%20TypeScript&descSize=16&descAlignY=52&fontColor=64fcf2&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1111,50:64fcf2,100:0b1111&height=200&section=header&text=ADRIAN%20VERGEL&fontSize=50&fontAlignY=36&desc=Desarrollador%20Full%20Stack%20%E2%80%A2%20Clean%20Architecture%20%E2%80%A2%20TypeScript&descSize=16&descAlignY=52&fontColor=0b1111&animation=fadeIn" />
-</picture>
-
 <h1 align="center">ADRIAN VERGEL</h1>
 <h3 align="center"><sub>Desarrollador Full Stack</sub></h3>
 
@@ -21,7 +16,7 @@
   <samp>
     <strong>Full Stack Developer</strong> apasionado por <strong>JavaScript / TypeScript</strong>.
     Plataformas robustas con <strong>Clean Architecture</strong>, APIs RESTful y RBAC.
-    Miembro de <strong>ALLCODE</strong> &mdash; Táchira, Venezuela &middot; Sector P&uacute;blico &amp; B2B
+    Miembro de <strong>ALLCODE</strong> &mdash; Táchira, Venezuela
   </samp>
 </p>
 
@@ -31,31 +26,38 @@
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=800&color=64FCF2&center=true&vCenter=true&repeat=false&width=200&lines=STACK" alt="STACK">
 </h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-0b1111?style=for-the-badge&logo=react&logoColor=64fcf2&labelColor=1a2222" alt="React">
-  <img src="https://img.shields.io/badge/React_Native-0b1111?style=for-the-badge&logo=react&logoColor=64fcf2&labelColor=1a2222" alt="React Native">
-  <img src="https://img.shields.io/badge/Next.js-0b1111?style=for-the-badge&logo=next.js&logoColor=64fcf2&labelColor=1a2222" alt="Next.js">
-  <img src="https://img.shields.io/badge/Astro-0b1111?style=for-the-badge&logo=astro&logoColor=64fcf2&labelColor=1a2222" alt="Astro">
-  <img src="https://img.shields.io/badge/Expo-0b1111?style=for-the-badge&logo=expo&logoColor=64fcf2&labelColor=1a2222" alt="Expo">
-  <img src="https://img.shields.io/badge/TypeScript-0b1111?style=for-the-badge&logo=typescript&logoColor=64fcf2&labelColor=1a2222" alt="TypeScript">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-0b1111?style=for-the-badge&logo=nodedotjs&logoColor=64fcf2&labelColor=1a2222" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express-0b1111?style=for-the-badge&logo=express&logoColor=64fcf2&labelColor=1a2222" alt="Express">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0b1111?style=for-the-badge&logo=tailwind-css&logoColor=64fcf2&labelColor=1a2222" alt="Tailwind">
-  <img src="https://img.shields.io/badge/Zustand-0b1111?style=for-the-badge&logo=react&logoColor=64fcf2&labelColor=1a2222" alt="Zustand">
-  <img src="https://img.shields.io/badge/Prisma-0b1111?style=for-the-badge&logo=prisma&logoColor=64fcf2&labelColor=1a2222" alt="Prisma">
-  <img src="https://img.shields.io/badge/PostgreSQL-0b1111?style=for-the-badge&logo=postgresql&logoColor=64fcf2&labelColor=1a2222" alt="PostgreSQL">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JWT-0b1111?style=for-the-badge&logo=jsonwebtokens&logoColor=64fcf2&labelColor=1a2222" alt="JWT">
-  <img src="https://img.shields.io/badge/Docker-0b1111?style=for-the-badge&logo=docker&logoColor=64fcf2&labelColor=1a2222" alt="Docker">
-  <img src="https://img.shields.io/badge/GraphQL-0b1111?style=for-the-badge&logo=graphql&logoColor=64fcf2&labelColor=1a2222" alt="GraphQL">
-  <img src="https://img.shields.io/badge/Git-0b1111?style=for-the-badge&logo=git&logoColor=64fcf2&labelColor=1a2222" alt="Git">
-  <img src="https://img.shields.io/badge/Linux-0b1111?style=for-the-badge&logo=linux&logoColor=64fcf2&labelColor=1a2222" alt="Linux">
-</p>
+<table align="center">
+  <tr>
+    <th align="center"><sub><strong>Frontend</strong></sub></th>
+    <th align="center"><sub><strong>Backend</strong></sub></th>
+    <th align="center"><sub><strong>Infra &amp; Tools</strong></sub></th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/React-0b1111?style=flat-square&logo=react&logoColor=64fcf2&labelColor=1a2222" alt="React">
+      <img src="https://img.shields.io/badge/React_Native-0b1111?style=flat-square&logo=react&logoColor=64fcf2&labelColor=1a2222" alt="React Native">
+      <img src="https://img.shields.io/badge/Next.js-0b1111?style=flat-square&logo=next.js&logoColor=64fcf2&labelColor=1a2222" alt="Next.js">
+      <img src="https://img.shields.io/badge/Astro-0b1111?style=flat-square&logo=astro&logoColor=64fcf2&labelColor=1a2222" alt="Astro">
+      <img src="https://img.shields.io/badge/Expo-0b1111?style=flat-square&logo=expo&logoColor=64fcf2&labelColor=1a2222" alt="Expo">
+      <img src="https://img.shields.io/badge/TypeScript-0b1111?style=flat-square&logo=typescript&logoColor=64fcf2&labelColor=1a2222" alt="TypeScript">
+      <img src="https://img.shields.io/badge/Tailwind_CSS-0b1111?style=flat-square&logo=tailwind-css&logoColor=64fcf2&labelColor=1a2222" alt="Tailwind">
+      <img src="https://img.shields.io/badge/Zustand-0b1111?style=flat-square&logo=react&logoColor=64fcf2&labelColor=1a2222" alt="Zustand">
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Node.js-0b1111?style=flat-square&logo=nodedotjs&logoColor=64fcf2&labelColor=1a2222" alt="Node.js">
+      <img src="https://img.shields.io/badge/Express-0b1111?style=flat-square&logo=express&logoColor=64fcf2&labelColor=1a2222" alt="Express">
+      <img src="https://img.shields.io/badge/Prisma-0b1111?style=flat-square&logo=prisma&logoColor=64fcf2&labelColor=1a2222" alt="Prisma">
+      <img src="https://img.shields.io/badge/PostgreSQL-0b1111?style=flat-square&logo=postgresql&logoColor=64fcf2&labelColor=1a2222" alt="PostgreSQL">
+      <img src="https://img.shields.io/badge/GraphQL-0b1111?style=flat-square&logo=graphql&logoColor=64fcf2&labelColor=1a2222" alt="GraphQL">
+      <img src="https://img.shields.io/badge/JWT-0b1111?style=flat-square&logo=jsonwebtokens&logoColor=64fcf2&labelColor=1a2222" alt="JWT">
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Docker-0b1111?style=flat-square&logo=docker&logoColor=64fcf2&labelColor=1a2222" alt="Docker">
+      <img src="https://img.shields.io/badge/Git-0b1111?style=flat-square&logo=git&logoColor=64fcf2&labelColor=1a2222" alt="Git">
+      <img src="https://img.shields.io/badge/Linux-0b1111?style=flat-square&logo=linux&logoColor=64fcf2&labelColor=1a2222" alt="Linux">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -218,8 +220,3 @@
   <br>
   <code>if ( code.isClean() ) deploy()</code>
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:0b1111,50:64fcf2,100:0b1111&height=100&section=footer&fontColor=64fcf2" />
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1111,50:64fcf2,100:0b1111&height=100&section=footer&fontColor=0b1111" width="100%" alt="Footer" />
-</picture>
