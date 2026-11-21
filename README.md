@@ -17,6 +17,23 @@
     <strong>Full Stack Developer</strong> apasionado por <strong>JavaScript / TypeScript</strong>.
     Plataformas robustas con <strong>Clean Architecture</strong>, APIs RESTful y RBAC.
     Miembro de <strong>ALLCODE</strong> &mdash; Táchira, Venezuela
+    <br>
+    Construyendo <strong>Vedu</strong> &mdash; gestión escolar multi-tenant &mdash; con ingeniería asistida por IA.
+  </samp>
+</p>
+
+---
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=800&color=64FCF2&center=true&vCenter=true&repeat=false&width=220&lines=AHORA" alt="AHORA">
+</h2>
+
+<p align="center">
+  <samp>
+    <strong>Vedu</strong> &mdash; plataforma de gestión escolar multi-tenant (MPPE / SENIAT / LOPNNA)<br>
+    Next.js web + <strong>2 apps Expo</strong> (Manager y Comunidad) + API <strong>NestJS + Prisma + PostgreSQL</strong><br>
+    Ingeniería asistida por IA &mdash; OpenCode, Gentle AI, workflows de spec y TDD<br>
+    RBAC granular, multi-tenancy, sesiones JWT con rotación y hardening continuo
   </samp>
 </p>
 
@@ -42,9 +59,11 @@
       <img src="https://img.shields.io/badge/TypeScript-0b1111?style=flat-square&logo=typescript&logoColor=64fcf2&labelColor=1a2222" alt="TypeScript">
       <img src="https://img.shields.io/badge/Tailwind_CSS-0b1111?style=flat-square&logo=tailwind-css&logoColor=64fcf2&labelColor=1a2222" alt="Tailwind">
       <img src="https://img.shields.io/badge/Zustand-0b1111?style=flat-square&logo=react&logoColor=64fcf2&labelColor=1a2222" alt="Zustand">
+      <img src="https://img.shields.io/badge/TanStack_Query-0b1111?style=flat-square&logo=reactquery&logoColor=64fcf2&labelColor=1a2222" alt="TanStack Query">
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Node.js-0b1111?style=flat-square&logo=nodedotjs&logoColor=64fcf2&labelColor=1a2222" alt="Node.js">
+      <img src="https://img.shields.io/badge/NestJS-0b1111?style=flat-square&logo=nestjs&logoColor=64fcf2&labelColor=1a2222" alt="NestJS">
       <img src="https://img.shields.io/badge/Express-0b1111?style=flat-square&logo=express&logoColor=64fcf2&labelColor=1a2222" alt="Express">
       <img src="https://img.shields.io/badge/Prisma-0b1111?style=flat-square&logo=prisma&logoColor=64fcf2&labelColor=1a2222" alt="Prisma">
       <img src="https://img.shields.io/badge/PostgreSQL-0b1111?style=flat-square&logo=postgresql&logoColor=64fcf2&labelColor=1a2222" alt="PostgreSQL">
@@ -55,6 +74,7 @@
       <img src="https://img.shields.io/badge/Docker-0b1111?style=flat-square&logo=docker&logoColor=64fcf2&labelColor=1a2222" alt="Docker">
       <img src="https://img.shields.io/badge/Git-0b1111?style=flat-square&logo=git&logoColor=64fcf2&labelColor=1a2222" alt="Git">
       <img src="https://img.shields.io/badge/Linux-0b1111?style=flat-square&logo=linux&logoColor=64fcf2&labelColor=1a2222" alt="Linux">
+      <img src="https://img.shields.io/badge/Jest-0b1111?style=flat-square&logo=jest&logoColor=64fcf2&labelColor=1a2222" alt="Jest">
     </td>
   </tr>
 </table>
@@ -209,7 +229,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bit9-A&theme=transparent&hide_border=true&background=0b1111&ring=64fcf2&fire=64fcf2&currStreakNum=c5c6c7&sideNums=c5c6c7&currStreakLabel=64fcf2&sideLabels=64fcf2&dates=475569" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Bit9-A&theme=transparent&hide_border=true&background=0b1111&ring=64fcf2&fire=64fcf2&currStreakNum=c5c6c7&sideNums=c5c6c7&currStreakLabel=64fcf2&sideLabels=64fcf2&dates=475569" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bit9-A&layout=compact&bg_color=0b1111&title_color=64fcf2&text_color=c5c6c7&icon_color=64fcf2&border_color=273a38&hide_border=true&langs_count=8&card_width=320" alt="Top Languages" />
 </p>
 
