@@ -25,21 +25,6 @@
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=800&color=64FCF2&center=true&vCenter=true&repeat=false&width=220&lines=AHORA" alt="AHORA">
-</h2>
-
-<p align="center">
-  <samp>
-    <strong>Vedu</strong> &mdash; plataforma de gestión escolar multi-tenant (MPPE / SENIAT / LOPNNA)<br>
-    Next.js web + <strong>2 apps Expo</strong> (Manager y Comunidad) + API <strong>NestJS + Prisma + PostgreSQL</strong><br>
-    Ingeniería asistida por IA &mdash; OpenCode, Gentle AI, workflows de spec y TDD<br>
-    RBAC granular, multi-tenancy, sesiones JWT con rotación y hardening continuo
-  </samp>
-</p>
-
----
-
-<h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=800&color=64FCF2&center=true&vCenter=true&repeat=false&width=200&lines=STACK" alt="STACK">
 </h2>
 
